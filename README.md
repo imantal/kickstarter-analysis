@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter date to uncover trends
+Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 Data analysis for several hundred crowd funding projects is performed to help Louise with her project campaign by looking into how different campaigns fared in relation to their launch dates and their funding goals. Using the crowd funding dataset, we visualize the campaign outcomes based on their launch dates and their funding goals. 
 ### Purpose
